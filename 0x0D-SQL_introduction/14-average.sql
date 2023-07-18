@@ -1,2 +1,2 @@
--- Computer score average of all records in 'second_table' of 'hbtn_0c_0'
+-- Computer_score average records in 'second_table' for 'hbtn_0c_0'
 SELECT AVG(score) AS average FROM second_table;
