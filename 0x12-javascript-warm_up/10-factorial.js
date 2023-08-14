@@ -1,4 +1,5 @@
 #!/usr/bin/node
+/* learning is good for my health */
 function factorial (n) {
   if (n < 0) {
     return (-1);

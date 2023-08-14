@@ -1,4 +1,5 @@
 #!/usr/bin/node
+/* learning is good for my health */
 if (process.argv.length <= 3) {
   console.log('0');
 } else {

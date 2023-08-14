@@ -1,4 +1,5 @@
 #!/usr/bin/node
+/* learning is good for my health */
 if (process.argv[2] === undefined || isNaN(process.argv[2])) {
   console.log('Missing size');
 } else {
